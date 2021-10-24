@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Self taught front end developer.
-- 🌱 &nbsp; Learning NodeJS.
+- ✍️ &nbsp; Self taught front end developer.
 - 🎓 &nbsp; Studied Pharmacy at Applied Science Private University.
-- ✍️ &nbsp; Looking for opportunities. I love to learn and contribute in any and every possible way.
+- 🤔 &nbsp; Looking for opportunities. I love to learn and contribute in any and every possible way.
+- 🌱 &nbsp; Learning NodeJS.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
