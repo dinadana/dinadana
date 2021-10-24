@@ -1,11 +1,9 @@
-<img src="https://avatars.githubusercontent.com/u/70176110?v=4">
-
 <h2> Hey there! I'm Dina.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- - 🌱 &nbsp; Learning about JS
+- 🌱 &nbsp; Learning about JS.
 - 🎓 &nbsp; Studied Pharmacy at Applied Science Private University.
 - ✍️ &nbsp; Pursuing Graphic Design as a hobby/side hustle.
 
@@ -32,8 +30,8 @@
 <br/>
 
 <a href="https://github.com/dinadana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinadana&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinadana&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dinadana&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinadana&theme=radical&layout=compact" />
 </a>
 
 <br/>
