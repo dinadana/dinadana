@@ -1,12 +1,12 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://avatars.githubusercontent.com/u/70176110?v=4">
 
 <h2> Hey there! I'm Dina.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
+- - 🌱 &nbsp; Learning about JS
 - 🎓 &nbsp; Studied Pharmacy at Applied Science Private University.
-- 🌱 &nbsp; Learning about JS
 - ✍️ &nbsp; Pursuing Graphic Design as a hobby/side hustle.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -41,8 +41,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-###########-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/dinadana/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-DinaDana-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/dinasdana/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-dinadana-blue?style=flat-square&logo=instagram"></a>
 <a href="dinadana@live.com"><img alt="Email" src="https://img.shields.io/badge/Email-dinadana@live.com-blue?style=flat-square&logo=gmail"></a>
+<a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-###########-blue?style=flat-square&logo=google-chrome"></a>
 </p>
