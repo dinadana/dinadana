@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies.
-- 🌱 &nbsp; Learning about JS.
+- 🤔 &nbsp; Self taught front end developer.
+- 🌱 &nbsp; Learning NodeJS.
 - 🎓 &nbsp; Studied Pharmacy at Applied Science Private University.
-- ✍️ &nbsp; Pursuing Graphic Design as a hobby/side hustle.
+- ✍️ &nbsp; Looking for opportunities. I love to learn and contribute in any and every possible way.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -37,7 +37,7 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
-<p align="left">
+<p align="center">
 <a href="mailto:dinadana@live.com"><img alt="Email" src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/Gmail_envelope_letter_email_Gmail_envelope_letter_email-512.png" width="50px" height="50px"></a>
 <a href="https://www.instagram.com/dinasdana/"><img alt="Instagram" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Instagram-512.png" width="50px" height="50px" width="50px" height="50px"></a>
 <a href="https://www.linkedin.com/in/dinadana/"><img alt="LinkedIn" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50px" height="50px"></a>
