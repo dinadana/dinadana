@@ -40,8 +40,6 @@
 
 <p align="center">
 <a href="dinadana@live.com"><img alt="Email" src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/Gmail_envelope_letter_email_Gmail_envelope_letter_email-512.png" width="50px" height="50px"></a>
-  
 <a href="https://www.instagram.com/dinasdana/"><img alt="Instagram" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Instagram-512.png" width="50px" height="50px" width="50px" height="50px"></a>
-  
 <a href="https://www.linkedin.com/in/dinadana/"><img alt="LinkedIn" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50px" height="50px"></a>
 </p>
