@@ -39,7 +39,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/dinadana/"><img alt="LinkedIn" src="https://www.iconfinder.com/icons/6214505/linkedin_logo_icon"></a>
+<a href="https://www.linkedin.com/in/dinadana/"><img alt="LinkedIn" src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png"></a>
 <a href="https://www.instagram.com/dinasdana/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-dinadana-blue?style=flat-square&logo=instagram"></a>
 <a href="dinadana@live.com"><img alt="Email" src="https://img.shields.io/badge/Email-dinadana@live.com-blue?style=flat-square&logo=gmail"></a>
 <a href="#"><img alt="Website" src="https://img.shields.io/badge/Website-###########-blue?style=flat-square&logo=google-chrome"></a>
